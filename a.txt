@@ -1,0 +1,1 @@
+This course introduces basic elements of modern computer and telecommunication networks. A hybrid five-layer reference model resembling the popular TCP/IP model will be discussed. 
